@@ -2,7 +2,7 @@ import axios from 'axios'
 
 // make api request
 
-const url='https://hm-server-2tgn.onrender.com'
+const url='https://nestshift.onrender.com'
 
 
 export const register=async(items)=>{
